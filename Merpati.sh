@@ -6,7 +6,7 @@ chmod +x ./install
 apt install ./smsid_1.1_all.deb
 clear
 
-toilet -f slant --gay "Merpati"
+toilet -f slant --gay "LiteSpam"
 sleep 1
 echo "\033[33;1m Macam-macam tool untuk spam"
 sleep 1
@@ -51,7 +51,7 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mDanz"
 sleep 5
 clear
-cd $HOME/MERPATI/Tul/
+cd $HOME/LITESPAM/Tul/
 php 2.php
 fi
 
@@ -63,10 +63,10 @@ figlet "Grab"
 echo "\033[31;1mJenis Spam:""\033[37;1mTelepon"
 echo "\033[31;1mBatas:""\033[37;1mUnlimited"
 echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mRaja FIR'AUN"
+echo "\033[31;1mAuthor:""\033[37;1mRaja Adtiya Candra"
 sleep 5
 clear
-cd $HOME/MERPATI/Tul/
+cd $HOME/LITESPAM/Tul/
 php 3.php
 fi
 
@@ -81,102 +81,6 @@ echo "\033[31;1mPemograman:""\033[37;1mPHP"
 echo "\033[31;1mAuthor:""\033[37;1mSGB-Team"
 sleep 5
 clear
-cd $HOME/MERPATI/Tul/
+cd $HOME/LITESPAM/Tul/
 php 4.php
-fi
-
-if [ $mrrm = 5 ] || [ $mrrm = 5 ]
-then
-clear
-toilet -f slant -F gay "CodaShop"
-echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
-echo "\033[31;1mBatas:""\033[37;1mUnlimited"
-echo "\033[31;1mPemograman:""\033[37;1mPHP"
-echo "\033[31;1mAuthor:""\033[37;1mBullyHat"
-echo
-echo
-echo "\033[33;1mCOPY LISENSI INI:" "\033[36;1mJDJ5JDEwJC9YMWRvNC5jcmNOSUw2dGdUaUt2d08ucWEvWURWSFNCTXI3U21wdkdsR1FMcVBSTW1oNUZH"
-sleep 1
-echo "\033[32;1mtunggu 5 Detik"
-sleep 5
-clear
-cd $HOME/MERPATI/Tul/
-php 5.php
-fi
-
-if
-[ $mrrm = 6 ] || [ $mrrm = 6 ]
-then
-clear
-toilet -f standard -F gay "Surveyon "
-echo "\033[31;1mJenis Spam:""\033[37;1mEmail"
-echo "\033[31;1mBatas:""\033[37;1mUnlimited"
-echo "\033[31;1mPemograman:""\033[37;1mphp"
-echo "\033[31;1mAuthor:""\033[37;1mChandra Aditya"
-sleep 5
-cd $HOME/MERPATI/Tul/
-php 6.php
-fi
-
-if
-[ $mrrm = 7 ] || [ $mrrm = 7 ]
-then
-clear
-toilet -f slant --gay "SMSID"
-echo "\033[31;1mJenis Spam:""\033[37;1mSMS"
-echo "\033[31;1mBatas:""\033[37;1m5"
-echo "\033[31;1mPemograman:""\033[37;1mBerjalan Langsung Pada DalvikVM"
-echo "\033[31;1mAuthor:""\033[37;1mAmsitlab"
-echo
-echo
-echo "\033[33;1mInformasi Lebih Lanjut Kunjungi:""\033[36;1mhttps://amsitlab.github.io/smsid-java/"
-sleep 6
-smsid boom -y
-fi
-
-if
-[ $mrrm = 81 ] || [ $mrrm = 81 ]
-then
-clear
-toilet -f slant --gay "LiteSpam"
-echo "\033[34;1mContact:""\033[37;1m https://fb.me/IrsyadMaulana81"
-
-
-sleep 1
-echo "\033[35;1mPemograman:""\033[36;1m Bash"
-
-echo "\033[33;1mKarya: IM81"
-sleep 1
-echo "\033[32;1mVersi: v3"
-sleep 1
-echo "\033[36;1mTeam: Indonesia Security Lite"
-sleep 1
-echo "\033[31;1mSubscribe YouTube""\033[37;1m HeXeRz"
-echo "\033[35;1m Spesial Thanks To: "
-echo "\033[36;1m"
-echo "Danz"
-echo "Mr.Rm"
-echo "SBGTeam"
-echo "amsitlab"
-echo "Bully Hat"
-echo "ChandraAditya"
-echo "Secoly Indonesia"
-echo "BlackHole Security"
-echo "Association Indonesian Right Wings"
-sleep 1
-echo "And All Member Indonesia Security Lite"
-echo "\033[30;1m tunggu 8 detik"
-sleep 8
-sh LITESPAM.sh
-fi
-
-
-
-if
-[ $mrrm = 0 ] || [ $mrrm = 0 ]
-then
-echo "\033[31;1m Keluar"
-sleep 1
-echo "\033[32;1m Sampai berjumpa lagi :)"
-sleep 1
 fi
